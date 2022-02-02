@@ -799,7 +799,7 @@ that you're running).
 | v1.3+           | -     | ✓     | ✓     | ✓       | ✓        |
 | v1.2+           | -     | -     | ✓     | ✓       | ✓        |
 
-\* Kubernetes 1.20 is scheduled to reach End-of-Life (EOL) on February 2021.
+\* Kubernetes 1.20 is scheduled to reach End-of-Life (EOL) at the end of February 2022.
 Using a newer Kubernetes version is strongly recommended.
 
 \*\* Kubernetes 1.19 has already reached End-of-Life (EOL) and is not
